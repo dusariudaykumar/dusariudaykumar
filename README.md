@@ -1,7 +1,7 @@
 Hi 👋 My name is Uday Kumar
 ===========================
 
-I'm an Undergrad pursuing Btech in CSE. Aspiring full-stack web developer
+
 
 * 🌍  I'm based in Hyderabad
 
